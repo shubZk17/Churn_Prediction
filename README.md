@@ -6,7 +6,7 @@ This project uses a machine learning model to predict whether a customer is like
 
 ## 🚀 Features
 
-- Pretrained model loaded via `pickle`
+- Trained model and loaded via `pickle`
 - Input preprocessing using `LabelEncoder`
 - Robust handling of missing and unseen categorical values
 - Supports inference on new customer data
